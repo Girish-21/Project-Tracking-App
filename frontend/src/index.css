@@ -1,0 +1,16 @@
+html {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color:cornflowerblue;
+}
+
+form {
+  padding: 20px;
+  margin-top: 60px;
+  background-color: white;
+}
